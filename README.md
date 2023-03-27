@@ -1,11 +1,6 @@
-# mlflow-workshop
-> MLFlow in practice workshop 
+# mlflow-demo
+> MLFlow in practice demo 
 
-
-## Workshop Video Recording
-Video recordings of the workshop can be found at the links below:
-
--Recording link Coming Soon!
 
 ## Other Resources
 
